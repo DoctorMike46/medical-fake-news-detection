@@ -214,18 +214,12 @@ Questo progetto è sviluppato come tesi universitaria. Tutti i diritti riservati
 
 ## 👥 Autore
 
-**[Il Tuo Nome]**
-- Email: [tua.email@università.it]
-- LinkedIn: [il-tuo-linkedin]
-- Università: [Nome Università]
-- Corso di Laurea: [Nome Corso]
+**[Michele Spinelli]**
+- Email: [m.spinelli26@studenti.unisa.it]
+- LinkedIn: [DoctorMike]
+- Università: [Università degli studi di Salerno]
+- Corso di Laurea: [Informatica]
 
-## 🙏 Ringraziamenti
-
-- Prof. [Nome Relatore] - Supervisione accademica
-- Dipartimento di [Nome Dipartimento]
-- OpenAI, Anthropic, Google - Per l'accesso alle API dei modelli linguistici
-- Comunità open source per le librerie utilizzate
 
 ---
 
@@ -233,16 +227,3 @@ Questo progetto è sviluppato come tesi universitaria. Tutti i diritti riservati
 
 **Versione**: 1.0.0  
 **Status**: In Sviluppo  
-**Ultimo Aggiornamento**: $(date +%Y-%m-%d)  
-
-### Roadmap
-
-- [x] ✅ Sistema base di rilevamento
-- [x] ✅ Interfaccia web responsive
-- [x] ✅ Integrazione multi-LLM
-- [ ] 🔄 Testing automatizzato completo
-- [ ] 📦 Containerizzazione Docker
-- [ ] ☁️ Deploy cloud-ready
-- [ ] 📊 Dashboard avanzate con ML insights
-- [ ] 🔄 CI/CD Pipeline
-- [ ] 📖 Documentazione API completa
