@@ -1,0 +1,154 @@
+{
+  "west nile": {
+    "aliases_it": [
+      "#arbovirosi",
+      "#culex",
+      "#febbre-del-nilo-occidentale",
+      "#nilo-occidentale",
+      "#virus-del-nilo-occidentale",
+      "#west-nile",
+      "#west-nile-virus",
+      "#wnv",
+      "arbovirosi",
+      "culex",
+      "febbre del nilo occidentale",
+      "nilo occidentale",
+      "virus del nilo occidentale",
+      "west nile",
+      "west nile virus",
+      "wnv"
+    ],
+    "aliases_en": [
+      "#west-nile-fever",
+      "#west-nile-virus",
+      "#wnv",
+      "west nile fever",
+      "west nile virus",
+      "wnv"
+    ],
+    "created_utc": "2025-08-14T15:30:07.730234+00:00",
+    "last_used": "2025-08-14T15:30:07.730262+00:00",
+    "usage_count": 1
+  },
+  "botulino": {
+    "aliases_it": [
+      "#botulino",
+      "#botulismo",
+      "#clostridium-botulinum",
+      "#tossina-botulinica",
+      "botulino",
+      "botulismo",
+      "clostridium botulinum",
+      "tossina botulinica"
+    ],
+    "aliases_en": [
+      "#botulinum-toxin",
+      "#botulism",
+      "#clostridium-botulinum",
+      "botulinum toxin",
+      "botulism",
+      "clostridium botulinum"
+    ],
+    "created_utc": "2025-08-15T07:23:12.604535+00:00",
+    "last_used": "2025-08-15T07:23:12.604560+00:00",
+    "usage_count": 1
+  },
+  "covid": {
+    "aliases_it": [
+      "#covid",
+      "#long-covid",
+      "#post-covid",
+      "#sindrome-post-covid",
+      "covid",
+      "long covid",
+      "post covid",
+      "post-covid",
+      "sindrome post-covid"
+    ],
+    "aliases_en": [
+      "#covid",
+      "covid"
+    ],
+    "created_utc": "2025-08-16T09:05:13.455968+00:00",
+    "last_used": "2025-08-16T09:05:13.455984+00:00",
+    "usage_count": 1
+  },
+  "malattia": {
+    "aliases_it": [
+      "#malattia",
+      "malattia"
+    ],
+    "aliases_en": [
+      "#disease",
+      "disease"
+    ],
+    "created_utc": "2025-08-22T06:42:05.603474+00:00",
+    "last_used": "2025-08-22T06:42:05.603483+00:00",
+    "usage_count": 1
+  },
+  "vaccini": {
+    "aliases_it": [
+      "#vaccini",
+      "vaccini"
+    ],
+    "aliases_en": [
+      "#vaccini",
+      "vaccini"
+    ],
+    "created_utc": "2025-08-22T06:42:05.604070+00:00",
+    "last_used": "2025-08-22T06:42:05.604072+00:00",
+    "usage_count": 1
+  },
+  "vaccino": {
+    "aliases_it": [
+      "#vaccino",
+      "vaccino"
+    ],
+    "aliases_en": [
+      "#vaccino",
+      "vaccino"
+    ],
+    "created_utc": "2025-08-22T06:44:41.875993+00:00",
+    "last_used": "2025-08-22T06:44:41.876002+00:00",
+    "usage_count": 1
+  },
+  "scabbia": {
+    "aliases_it": [
+      "#scabbia",
+      "scabbia"
+    ],
+    "aliases_en": [
+      "#scabbia",
+      "scabbia"
+    ],
+    "created_utc": "2025-08-22T07:36:50.975061+00:00",
+    "last_used": "2025-08-22T07:36:50.975091+00:00",
+    "usage_count": 1
+  },
+  "febbre": {
+    "aliases_it": [
+      "#febbre",
+      "febbre"
+    ],
+    "aliases_en": [
+      "#fever",
+      "fever"
+    ],
+    "created_utc": "2025-08-22T07:54:35.395352+00:00",
+    "last_used": "2025-08-22T07:54:35.395383+00:00",
+    "usage_count": 1
+  },
+  "virus": {
+    "aliases_it": [
+      "#virus",
+      "virus"
+    ],
+    "aliases_en": [
+      "#virus",
+      "virus"
+    ],
+    "created_utc": "2025-08-22T07:54:35.396759+00:00",
+    "last_used": "2025-08-22T07:54:35.396767+00:00",
+    "usage_count": 1
+  }
+}

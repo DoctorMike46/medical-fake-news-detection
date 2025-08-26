@@ -1,0 +1,60 @@
+{
+  "west nile": {
+    "topic": "west nile",
+    "sources": [
+      [
+        "CDC",
+        "https://www.cdc.gov/west-nile-fever/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/west-nile-fever/symptoms/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/west-nile-fever/prevention/"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/west-nile-fever"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/west-nile-fever/surveillance-and-disease-data"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/news-room/fact-sheets/detail/west-nile-fever"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/health-topics/west-nile-fever"
+      ],
+      [
+        "ISS",
+        "https://www.iss.it/arbovirosi"
+      ],
+      [
+        "ISS",
+        "https://www.epicentro.iss.it/arbovirosi"
+      ],
+      [
+        "Ministero della Salute",
+        "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&parolaChiave=arbovirosi"
+      ]
+    ],
+    "aliases": {
+      "it": [],
+      "en": []
+    },
+    "updated_at_ts": 1755185427.369241,
+    "updated_at_iso": "2025-08-14T15:30:27Z",
+    "version": 1,
+    "metadata": {
+      "generated_documents_count": 10,
+      "cached_at": "2025-08-14T15:30:27.369209+00:00",
+      "service_version": "2.0"
+    },
+    "created_at_ts": 1755185427.369241
+  }
+}

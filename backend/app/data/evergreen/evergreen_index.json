@@ -1,0 +1,292 @@
+{
+  "west nile": {
+    "topic": "west nile",
+    "sources": [
+      [
+        "CDC",
+        "https://www.cdc.gov/west-nile-fever/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/west-nile-fever/symptoms/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/west-nile-fever/prevention/"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/west-nile-fever"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/west-nile-fever/surveillance-and-disease-data"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/news-room/fact-sheets/detail/west-nile-fever"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/health-topics/west-nile-fever"
+      ],
+      [
+        "ISS",
+        "https://www.iss.it/arbovirosi"
+      ],
+      [
+        "ISS",
+        "https://www.epicentro.iss.it/arbovirosi"
+      ],
+      [
+        "Ministero della Salute",
+        "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&parolaChiave=arbovirosi"
+      ]
+    ],
+    "aliases": {
+      "it": [],
+      "en": []
+    },
+    "updated_at_ts": 1755846099.535098,
+    "updated_at_iso": "2025-08-22T07:01:39Z",
+    "version": 2,
+    "metadata": {
+      "generated_documents_count": 10,
+      "cached_at": "2025-08-22T07:01:39.535071+00:00",
+      "service_version": "2.0"
+    },
+    "created_at_ts": 1755185427.369241
+  },
+  "botulino": {
+    "topic": "botulino",
+    "sources": [
+      [
+        "CDC",
+        "https://www.cdc.gov/botulinum-toxin/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/botulinum-toxin/symptoms/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/botulinum-toxin/prevention/"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/botulinum-toxin"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/botulinum-toxin/surveillance-and-disease-data"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/news-room/fact-sheets/detail/botulinum-toxin"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/health-topics/botulinum-toxin"
+      ],
+      [
+        "ISS",
+        "https://www.iss.it/botulino"
+      ],
+      [
+        "ISS",
+        "https://www.epicentro.iss.it/botulino"
+      ],
+      [
+        "Ministero della Salute",
+        "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&parolaChiave=botulino"
+      ]
+    ],
+    "aliases": {
+      "it": [],
+      "en": []
+    },
+    "updated_at_ts": 1755242608.670155,
+    "updated_at_iso": "2025-08-15T07:23:28Z",
+    "version": 1,
+    "metadata": {
+      "generated_documents_count": 10,
+      "cached_at": "2025-08-15T07:23:28.670094+00:00",
+      "service_version": "2.0"
+    },
+    "created_at_ts": 1755242608.670155
+  },
+  "covid": {
+    "topic": "covid",
+    "sources": [
+      [
+        "CDC",
+        "https://www.cdc.gov/covid/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/covid/symptoms/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/covid/prevention/"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/covid"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/covid/surveillance-and-disease-data"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/news-room/fact-sheets/detail/covid"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/health-topics/covid"
+      ],
+      [
+        "ISS",
+        "https://www.iss.it/post-covid"
+      ],
+      [
+        "ISS",
+        "https://www.epicentro.iss.it/post-covid"
+      ],
+      [
+        "Ministero della Salute",
+        "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&parolaChiave=covid"
+      ]
+    ],
+    "aliases": {
+      "it": [],
+      "en": []
+    },
+    "updated_at_ts": 1755338816.975544,
+    "updated_at_iso": "2025-08-16T10:06:56Z",
+    "version": 1,
+    "metadata": {
+      "generated_documents_count": 10,
+      "cached_at": "2025-08-16T10:06:56.975524+00:00",
+      "service_version": "2.0"
+    },
+    "created_at_ts": 1755338816.975544
+  },
+  "vaccino": {
+    "topic": "vaccino",
+    "sources": [
+      [
+        "CDC",
+        "https://www.cdc.gov/vaccino/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/vaccino/symptoms/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/vaccino/prevention/"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/vaccino"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/vaccino/surveillance-and-disease-data"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/news-room/fact-sheets/detail/vaccino"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/health-topics/vaccino"
+      ],
+      [
+        "ISS",
+        "https://www.iss.it/vaccino"
+      ],
+      [
+        "ISS",
+        "https://www.epicentro.iss.it/vaccino"
+      ],
+      [
+        "Ministero della Salute",
+        "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&parolaChiave=vaccino"
+      ]
+    ],
+    "aliases": {
+      "it": [],
+      "en": []
+    },
+    "updated_at_ts": 1755845100.231636,
+    "updated_at_iso": "2025-08-22T06:45:00Z",
+    "version": 1,
+    "metadata": {
+      "generated_documents_count": 10,
+      "cached_at": "2025-08-22T06:45:00.231624+00:00",
+      "service_version": "2.0"
+    },
+    "created_at_ts": 1755845100.231636
+  },
+  "malattia": {
+    "topic": "malattia",
+    "sources": [
+      [
+        "CDC",
+        "https://www.cdc.gov/disease/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/disease/symptoms/"
+      ],
+      [
+        "CDC",
+        "https://www.cdc.gov/disease/prevention/"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/disease"
+      ],
+      [
+        "ECDC",
+        "https://www.ecdc.europa.eu/en/disease/surveillance-and-disease-data"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/news-room/fact-sheets/detail/disease"
+      ],
+      [
+        "WHO",
+        "https://www.who.int/health-topics/disease"
+      ],
+      [
+        "ISS",
+        "https://www.iss.it/malattia"
+      ],
+      [
+        "ISS",
+        "https://www.epicentro.iss.it/malattia"
+      ],
+      [
+        "Ministero della Salute",
+        "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&parolaChiave=malattia"
+      ]
+    ],
+    "aliases": {
+      "it": [],
+      "en": []
+    },
+    "updated_at_ts": 1755845625.406493,
+    "updated_at_iso": "2025-08-22T06:53:45Z",
+    "version": 1,
+    "metadata": {
+      "generated_documents_count": 10,
+      "cached_at": "2025-08-22T06:53:45.406454+00:00",
+      "service_version": "2.0"
+    },
+    "created_at_ts": 1755845625.406493
+  }
+}
